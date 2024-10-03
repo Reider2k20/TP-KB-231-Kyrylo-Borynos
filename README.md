@@ -1,9 +1,13 @@
 # 2024-09-22
-add a floader topic-01
+add a floader topic_01
 add solution for task1 task2 and task3
 
 # 2024-10-03
-add a floader topic-02
+add a floader topic_02
 add solution for task1 task2 and task3
+
+# 2024-10-03
+add a floader topic_03
+add solution for task1 task2 task3 and task4
 
 # TP-KB-231-Kyrylo-Borynos
