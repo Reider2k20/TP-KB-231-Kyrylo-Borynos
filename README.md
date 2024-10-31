@@ -20,6 +20,7 @@ update report file
 
 # 2024-10-31
 add a floader topic_05 | 
-add solution for task1, task2 and task3
+add solution for task1, task2 and task3 |
+update report file
 
 # TP-KB-231-Kyrylo-Borynos
