@@ -1,6 +1,7 @@
 # 2024-12-06
-add a floader topic_07 | 
-add solution for task2, task3 and task4
+add a floader topic_07, lab_01 | 
+add solution for task2, task3, task4 and lab_01 |
+update report file
 
 # 2024-11-14
 add a floader topic_06 | 
