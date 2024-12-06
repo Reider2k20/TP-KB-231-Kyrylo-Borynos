@@ -1,3 +1,7 @@
+# 2024-12-06
+add a floader topic_07 | 
+add solution for task2, task3 and task4
+
 # 2024-11-14
 add a floader topic_06 | 
 add solution for task1 and task2 |
