@@ -1,3 +1,7 @@
+# 2024-12-07
+add a floader lab_02, lab_03 and lab_04  | 
+add solution for lab_02, lab_03 and lab_04
+
 # 2024-12-06
 add a floader topic_07, lab_01 | 
 add solution for task2, task3, task4 and lab_01 |
